@@ -1,0 +1,58 @@
+h1 {
+    color:blue;
+    font-size: 50px;
+    border: 1px solid red;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: 1px solid red;
+  
+}
+body
+{
+    background-color: skyblue;
+}
+
+ul li {
+    color: burlywood;
+    margin: 20px;
+    font-family: monospace;
+    background-color: azure;
+    font-size: 25px;
+    list-style-type: circle;
+}
+
+ol li {
+    font-size: 30px;
+    color: black;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    list-style-type: square;
+    border: 3px dashed red;
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+
+th {
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 20px;
+}
+td {
+    background-color: lightcyan;
+    color: black;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left; 
+}
